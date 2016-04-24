@@ -1,4 +1,4 @@
-Awesome Bootstrap Checkbox
+Awesome Bootstrap Checkbox (RTL Support)
 ==========================
 
 [![NPM version](https://img.shields.io/npm/v/awesome-bootstrap-checkbox.svg?style=flat)](https://www.npmjs.com/package/awesome-bootstrap-checkbox)
